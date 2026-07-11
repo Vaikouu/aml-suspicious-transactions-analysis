@@ -31,10 +31,6 @@
 - PEP customers with concentrated high-risk activity
 - Geographic "hotspots" of transfers to high-risk countries
 
-## Dashboard Preview
-![Client Risk](screenshots/page1_client_risk.png)
-![Country Risk](screenshots/page2_country_risk.png)
-
 ## Note
 All data is synthetic (mock), generated for educational purposes. 
 No real customer information is included.
