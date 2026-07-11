@@ -1,0 +1,181 @@
+CustomerID;FullName;CustomerType;Country;DateOnboarded;Occupation;RiskRating;PEP_Flag;Email;Phone 
+CUST0001;Petar Ivanov;Individual;France;24.2.2020;Real Estate Agent;Low;No;petar28@gmail.com;088 068 8508
+CUST0002;Omar Wang;Individual;Bulgaria;15.10.2020;Freelancer;Low;No;omar49@mail.com;089 173 3052
+CUST0003;Georgi Kowalski;Individual;Belarus;19.11.2019;Unemployed;High;No;georgi91@mail.com;088 791 0620
+CUST0004;Nikolay Vasilev;Business;Italy;2.3.2023;Construction Manager;Low;No;nikolay78@gmail.com;088 727 1339
+CUST0005;John Angelov;Business;Spain;18.6.2021;Consultant;Low;No;john52@yahoo.com;089 885 2787
+CUST0006;Todor Muller;Individual;India;8.8.2020;Teacher;Medium;No;todor75@abv.bg;088 463 4277
+CUST0007;Nikolay Georgiev;Business;France;26.9.2023;Import/Export Trader;Low;No;nikolay2@mail.com;089 788 7352
+CUST0008;Fatima Dimitrov;Individual;Bulgaria;14.12.2021;Accountant;Medium;No;fatima82@gmail.com;088 566 5579
+CUST0009;Ahmed Muller;Individual;Syria;9.7.2021;Accountant;High;No;ahmed98@gmail.com;089 567 6510
+CUST0010;Silvia Rossi;Business;Netherlands;17.1.2025;Real Estate Agent;Low;No;silvia57@abv.bg;088 716 7136
+CUST0011;Maria Gonzalez;Individual;Bulgaria;18.10.2019;Software Engineer;Low;No;maria66@gmail.com;089 532 4643
+CUST0012;Andrei Vasilev;Business;UAE;22.1.2020;Import/Export Trader;Medium;No;andrei87@mail.com;089 093 9482
+CUST0013;Vasil Todorov;Individual;Austria;21.1.2021;Import/Export Trader;Low;No;vasil13@mail.com;089 797 6638
+CUST0014;Nikolay Vasilev;Individual;Netherlands;1.7.2023;Real Estate Agent;Medium;Yes;nikolay37@abv.bg;089 779 4022
+CUST0015;Kristina Todorov;Individual;Iran;7.8.2022;Unemployed;High;No;kristina66@mail.com;088 272 3939
+CUST0016;Vasil Al-Rashid;Individual;UAE;29.6.2025;Restaurant Owner;Low;No;vasil34@gmail.com;089 035 0280
+CUST0017;Sarah Nikolov;Individual;Canada;25.10.2019;Accountant;Low;No;sarah65@yahoo.com;089 117 2132
+CUST0018;Li Kolev;Individual;Cyprus;24.5.2022;Software Engineer;Low;No;li39@mail.com;088 437 7312
+CUST0019;Ani Silva;Individual;Netherlands;11.5.2022;Import/Export Trader;Low;No;ani12@abv.bg;088 110 3717
+CUST0020;Stefan Angelov;Individual;Austria;16.4.2025;Currency Exchange Operator;Low;No;stefan48@gmail.com;088 142 3232
+CUST0021;Georgi Zhelyazkov;Individual;Germany;19.12.2022;Restaurant Owner;Low;No;georgi21@gmail.com;088 028 8073
+CUST0022;Carlos Vasilev;Individual;Turkey;16.4.2023;Unemployed;High;No;carlos40@gmail.com;088 651 7821
+CUST0023;Hristo Petrov;Business;Spain;26.6.2023;Software Engineer;Low;No;hristo23@yahoo.com;089 955 5673
+CUST0024;Ahmed Wang;Individual;Austria;19.6.2025;Retired;N/A;No;ahmed88@gmail.com;088 279 6503
+CUST0025;Ahmed Dimitrov;Individual;Sweden;31.7.2023;Consultant;Low;No;ahmed87@gmail.com;088 952 5800
+CUST0026;Rumen Kolev;Individual;Serbia;12.8.2022;Import/Export Trader;Medium;No;rumen85@mail.com;089 945 1470
+CUST0027;Vasil Kolev;Individual;Bulgaria;7.9.2019;Accountant;Low;No;vasil25@abv.bg;088 725 4739
+CUST0028;Ani Wang;Individual;Cyprus;22.10.2024;Accountant;Medium;No;ani86@yahoo.com;089 474 2412
+CUST0029;Layla Kowalski;Business;India;18.1.2024;Freelancer;Medium;No;layla81@gmail.com;088 284 8206
+CUST0030;Vasil Angelov;Individual;Turkey;20.7.2020;Consultant;Medium;No;vasil43@abv.bg;088 697 3349
+CUST0031;John Gonzalez;Business;Ireland;8.4.2023;Real Estate Agent;Low;No;john69@gmail.com;088 855 7007
+CUST0032;Maria Al-Rashid;Individual;Austria;7.11.2020;Retired;Low;No;maria76@mail.com;089 324 2291
+CUST0033;Boris Georgiev;Individual;Italy;31.8.2022;Unemployed;Low;No;boris61@mail.com;088 146 6960
+CUST0034;Dimitar Georgiev;Individual;Afghanistan;25.3.2019;Accountant;High;No;dimitar60@yahoo.com;088 573 5324
+CUST0035;Yordan Kolev;Individual;Sweden;16.6.2025;Construction Manager;Low;No;yordan89@g@mail.com;088 999 1597
+CUST0036;Georgi Zhelyazkov;Individual;Germany;3.9.2024;Import/Export Trader;N/A;No;georgi82@abv.bg;089 328 4692
+CUST0037;Omar Muller;Individual;Serbia;4.1.2022;Teacher;Medium;No;omar97@abv.bg;089 245 2737
+CUST0038;Elena Marinov;Individual;Sweden;26.10.2022;Retired;Low;No;elena11@gmail.com;089 568 2144
+CUST0039;Andrei Muller;Individual;Sweden;26.6.2021;Doctor;Low;No;andrei45@abv.bg;089 744 6859
+CUST0040;Olga Angelov;Individual;Netherlands;16.7.2022;Business Owner;Low;No;olga36@yahoo.com;088 641 0636
+CUST0041;Li Stoyanov;Individual;France;28.1.2022;Business Owner;Low;No;li14@mail.com;089 560 1968
+CUST0042;Fatima Stoyanov;Business;Italy;12.4.2020;Lawyer;Low;No;fatima20@yahoo.com;088 722 4205
+CUST0043;Radost Rossi;Individual;China;23.10.2023;Construction Manager;Medium;No;radost81@gmail.com;088 226 4686
+CUST0044;Boris Silva;Individual;Italy;4.8.2024;Construction Manager;Low;No;boris88@gmail.com;089 879 3300
+CUST0045;Sofia Dimitrov;Individual;Sweden;5.8.2020;Construction Manager;Low;No;sofia57@mail.com;088 983 3723
+CUST0046;Hristo Rossi;Individual;Ireland;13.6.2019;Software Engineer;Medium;No;hristo76@mail.com;088 870 4238
+CUST0047;Boris Muller;Individual;Sweden;13.1.2021;Accountant;Medium;No;boris43@yahoo.com;088 544 5824
+CUST0048;Elena Kolev;Individual;Spain;31.5.2019;Freelancer;Low;No;elena1@abv.bg;088 664 3623
+CUST0049;Elena Kowalski;Individual;Spain;20.6.2020;Accountant;Medium;No;elena31@gmail.com;088 067 9077
+CUST0050;Nikolay Vasilev;Business;India;26.4.2020;Teacher;Low;No;nikolay54@abv.bg;088 757 8975
+CUST0051;John Todorov;Business;France;13.10.2019;Currency Exchange Operator;Low;No;john1@yahoo.com;089 870 8093
+CUST0052;Kristina Kowalski;Individual;Spain;3.2.2025;Construction Manager;Low;No;kristina30abv.bg;089 583 9485
+CUST0053;John Nikolov;Individual;Spain;21.9.2022;Retired;Medium;No;john93@gmail.com;088 417 8463
+CUST0054;Silvia Marinov;Individual;Germany;7.9.2022;Doctor;Medium;No;silvia70@mail.com;088 776 1820
+CUST0055;Radost Petrov;Individual;Germany;23.12.2023;Doctor;Low;Yes;radost46@yahoo.com;088 765 6968
+CUST0056;Boris Stoyanov;Individual;Austria;13.9.2021;Lawyer;Low;No;boris86@mail.com;089 440 1603
+CUST0057;Dimitar Kowalski;Business;Syria;10.4.2023;Real Estate Agent;High;No;dimitar31@abv.bg;089 841 0244
+CUST0058;Maria Al-Rashid;Individual;Bulgaria;27.7.2024;Consultant;Low;No;maria29@gmail.com;088 475 8765
+CUST0059;Georgi Kolev;Business;Canada;22.6.2020;Business Owner;Low;No;georgi47@yahoo.com;088 896 4749
+CUST0060;Diana Marinov;Business;Germany;30.7.2020;Lawyer;Low;No;diana47@mail.com;088 037 7304
+CUST0061;Olga Zhelyazkov;Individual;Ireland;4.10.2023;Consultant;Low;No;olga72@yahoo.com;088 777 9112
+CUST0062;Olga Kolev;Individual;Bulgaria;2.6.2019;Currency Exchange Operator;Low;No;olga59@yahoo.com;089 753 9486
+CUST0063;Carlos Dimitrov;Business;Sweden;15.5.2019;Consultant;Low;No;carlos88@yahoo.com;089 116 3491
+CUST0064;Hristo Todorov;Business;Yemen;11.1.2020;Software Engineer;High;No;hristo32@gmail.com;088 617 1942
+CUST0065;Todor Vasilev;Individual;Ireland;12.1.2019;Retired;Low;No;todor15@mail.com;089 192 8358
+CUST0066;Ahmed Ivanov;Individual;Austria;24.11.2024;Doctor;Low;No;ahmed58@gmail.com;088 186 2569
+CUST0067;Olga Ivanov;Individual;Austria;13.10.2023;Accountant;Low;No;olga78@g@mail.com;088 875 4644
+CUST0068;John Smirnov;Individual;Ireland;29.10.2023;Lawyer;Low;No;john93@gmail.com;088 753 3914
+CUST0069;Olga Al-Rashid;Individual;Austria;7.4.2022;Currency Exchange Operator;Low;No;olga11@mail.com;089 195 1201
+CUST0070;Layla Georgiev;Individual;Canada;15.5.2020;Real Estate Agent;Low;No;layla37@yahoo.com;089 863 2060
+CUST0071;Kristina Muller;Individual;Spain;14.2.2023;Real Estate Agent;Low;No;kristina79@mail.com;088 813 0359
+CUST0072;Hristo Kolev;Business;France;8.9.2020;Lawyer;Low;No;hristo96@gmail.com;089 445 7455
+CUST0073;Li Kolev;Individual;Serbia;14.12.2019;Software Engineer;High;No;li57@abv.bg;089 453 4303
+CUST0074;Todor Rossi;Individual;Sweden;16.6.2024;Restaurant Owner;Low;No;todor39@gmail.com;088 840 3507
+CUST0075;Petar Ivanov;Individual;France;4.7.2023;Lawyer;Low;No;petar51@mail.com;089 418 1644
+CUST0076;Sofia Gonzalez;Individual;Sweden;16.4.2020;Restaurant Owner;Low;No;sofia12@abv.bg;088 755 6839
+CUST0077;Yuki Petrov;Individual;Canada;26.6.2021;Accountant;Low;No;yuki45@yahoo.com;088 434 7745
+CUST0078;Kristina Angelov;Individual;Germany;26.12.2020;Restaurant Owner;Medium;No;kristina88@yahoo.com;089 025 8290
+CUST0079;Dimitar Muller;Individual;Sweden;19.8.2019;Software Engineer;Low;No;dimitar10@mail.com;089 650 3159
+CUST0080;Layla Georgiev;Individual;Cyprus;10.2.2021;Software Engineer;Medium;No;layla92@mail.com;088 514 1043
+CUST0081;Viktor Kowalski;Individual;Canada;8.3.2023;Lawyer;Medium;No;viktor9@yahoo.com;089 239 7949
+CUST0082;Kristina Marinov;Individual;Canada;24.6.2022;Restaurant Owner;Medium;No;kristina40@abv.bg;089 095 2686
+CUST0083;Yuki Petrov;Individual;Canada;16.3.2019;Freelancer;Low;No;yuki18@g@mail.com;088 363 2351
+CUST0084;Fatima Smirnov;Individual;France;1.10.2021;Business Owner;Low;No;fatima53@yahoo.com;088 756 5776
+CUST0085;Viktor Vasilev;Individual;Italy;5.3.2021;Import/Export Trader;Low;No;viktor65@abv.bg;088 694 0181
+CUST0086;Silvia Georgiev;Individual;Serbia;25.2.2020;Accountant;Low;No;silvia58@gmail.com;088 233 2823
+CUST0087;Wei Ivanov;Individual;Canada;23.8.2021;Doctor;Low;No;wei19@g@mail.com;089 582 9884
+CUST0088;Andrei Kowalski;Individual;Turkey;14.11.2021;Restaurant Owner;Medium;No;andrei37@gmail.com;088 135 0021
+CUST0089;Olga Petrov;Individual;Serbia;1.4.2025;Business Owner;Medium;No;olga79@yahoo.com;089 329 6412
+CUST0090;Yuki Zhelyazkov;Individual;Spain;10.9.2024;Lawyer;Low;No;yuki33@mail.com;088 246 1551
+CUST0091;Ani Gonzalez;Individual;Bulgaria;14.12.2022;Freelancer;Low;No;ani81@gmail.com;088 285 0827
+CUST0092;Georgi Kolev;Individual;Turkey;16.7.2022;Retired;High;No;georgi97@gmail.com;088 178 7584
+CUST0093;Hristo Dimitrov;Business;Austria;7.12.2023;Import/Export Trader;Medium;No;hristo67@yahoo.com;089 318 2760
+CUST0094;Boris Silva;Individual;Canada;25.4.2022;Construction Manager;Low;No;boris6@yahoo.com;089 338 7892
+CUST0095;Dimitar Al-Rashid;Individual;Cyprus;17.10.2020;Freelancer;High;No;dimitar9@gmail.com;089 147 9742
+CUST0096;Georgi Smirnov;Individual;Canada;4.3.2023;Doctor;Low;No;georgi32@mail.com;088 562 3285
+CUST0097;Layla Dimitrov;Individual;Italy;28.5.2021;Import/Export Trader;Medium;No;layla10@abv.bg;089 419 2055
+CUST0098;Wei Petrov;Individual;Sweden;7.10.2020;Freelancer;Low;No;wei16@gmail.com;088 792 8766
+CUST0099;Maria Zhelyazkov;Individual;Spain;15.6.2020;Construction Manager;Low;No;maria53@abv.bg;088 223 1414
+CUST0100;Dimitar Kowalski;Individual;France;3.8.2025;Real Estate Agent;Low;No;dimitar16@gmail.com;088 543 8334
+CUST0101;Wei Rossi;Business;China;15.3.2021;Teacher;Low;No;wei65@gmail.com;089 826 1684
+CUST0102;Fatima Gonzalez;Individual;Turkey;6.7.2019;Consultant;High;No;fatima80@mail.com;089 740 3742
+CUST0103;Andrei Vasilev;Business;Sweden;1.2.2024;Import/Export Trader;Low;No;andrei78@gmail.com;089 086 9864
+CUST0104;Sarah Nikolov;Individual;Germany;31.7.2022;Business Owner;Low;No;sarah50@abv.bg;088 595 2993
+CUST0105;Ahmed Todorov;Individual;Spain;27.3.2024;Real Estate Agent;Low;Yes;ahmed28@yahoo.com;088 961 8934
+CUST0106;Diana Silva;Individual;France;19.12.2021;Real Estate Agent;Low;No;diana25@yahoo.com;088 250 5116
+CUST0107;Layla Angelov;Business;Ireland;1.5.2020;Doctor;Low;No;layla97@gmail.com;089 652 0884
+CUST0108;Georgi Georgiev;Individual;Italy;28.10.2024;Doctor;Low;No;georgi21@abv.bg;088 972 2565
+CUST0109;Chen Rossi;Individual;Sweden;29.4.2024;Real Estate Agent;Low;No;chen77@abv.bg;089 870 5693
+CUST0110;Elena Gonzalez;Individual;Ireland;4.7.2023;Construction Manager;Low;Yes;elena57@yahoo.com;089 382 4042
+CUST0111;Carlos Rossi;Individual;Iran;19.7.2020;Import/Export Trader;High;No;carlos23@abv.bg;089 067 2808
+CUST0112;Silvia Smirnov;Individual;Syria;4.4.2025;Freelancer;High;No;silvia89@abv.bg;089 168 7713
+CUST0113;Diana Dimitrov;Individual;Austria;14.11.2022;Teacher;Medium;No;diana45@abv.bg;089 532 4381
+CUST0114;Omar Angelov;Business;France;23.3.2020;Lawyer;Low;No;omar82@g@mail.com;089 344 6337
+CUST0115;Ani Nikolov;Individual;France;25.7.2023;Lawyer;Low;No;ani42@yahoo.com;088 278 3984
+CUST0116;Omar Georgiev;Business;France;29.5.2019;Currency Exchange Operator;Medium;No;omar5@mail.com;089 921 2512
+CUST0117;Diana Kowalski;Business;Italy;3.7.2020;Accountant;Medium;No;diana83@yahoo.com;088 087 2399
+CUST0118;Diana Gonzalez;Individual;Ireland;19.7.2023;Lawyer;Low;No;diana62@yahoo.com;088 037 3453
+CUST0119;Vasil Kowalski;Individual;Syria;13.7.2025;Construction Manager;N/A;No;vasil60@yahoo.com;089 683 7733
+CUST0120;Petar Kolev;Individual;France;12.5.2024;Real Estate Agent;Low;No;petar97@gmail.com;089 992 5618
+CUST0121;Yuki Kowalski;Individual;Ireland;4.4.2020;Restaurant Owner;Low;No;yuki42abv.bg;088 685 1742
+CUST0122;Nikolay Rossi;Individual;France;10.3.2024;Lawyer;Low;No;nikolay51@yahoo.com;088 670 6403
+CUST0123;Georgi Wang;Individual;Bulgaria;10.10.2019;Business Owner;Medium;No;georgi48@abv.bg;089 249 3892
+CUST0124;Omar Nikolov;Individual;France;1.9.2025;Unemployed;Low;No;omar39@abv.bg;089 754 4730
+CUST0125;Radost Vasilev;Individual;Netherlands;4.7.2020;Currency Exchange Operator;Low;No;radost31@g@mail.com;089 913 5207
+CUST0126;Elena Vasilev;Individual;Netherlands;19.1.2025;Retired;Low;Yes;elena94@yahoo.com;089 034 8411
+CUST0127;Kristina Rossi;Individual;Bulgaria;30.3.2025;Lawyer;Medium;No;kristina64@mail.com;089 292 3975
+CUST0128;Carlos Wang;Individual;Spain;23.4.2024;Business Owner;Low;No;carlos72@abv.bg;089 765 5736
+CUST0129;John Vasilev;Individual;Germany;17.1.2024;Consultant;Low;No;john87@mail.com;088 694 3737
+CUST0130;Andrei Todorov;Business;Bulgaria;17.5.2021;Freelancer;Medium;No;andrei90@gmail.com;088 767 8897
+CUST0131;Diana Al-Rashid;Individual;Sweden;7.12.2021;Freelancer;Low;No;diana98@yahoo.com;089 142 8122
+CUST0132;Georgi Gonzalez;Business;Turkey;4.12.2021;Teacher;Low;No;georgi30@abv.bg;088 762 3555
+CUST0133;Silvia Muller;Business;Italy;2.3.2024;Construction Manager;Low;No;silvia70@mail.com;088 295 7730
+CUST0134;Ivan Wang;Individual;Germany;9.10.2020;Restaurant Owner;Low;No;ivan62abv.bg;089 767 8440
+CUST0135;Ivan Ivanov;Individual;Sweden;3.12.2019;Currency Exchange Operator;Low;No;ivan68@gmail.com;089 965 2029
+CUST0136;Wei Angelov;Business;Austria;24.2.2024;Lawyer;Low;No;wei84@mail.com;089 249 5490
+CUST0137;Elena Ivanov;Individual;Austria;18.9.2022;Retired;Low;No;elena28@abv.bg;088 281 7675
+CUST0138;Omar Gonzalez;Individual;Canada;3.6.2019;Construction Manager;Medium;No;omar39@gmail.com;089 897 5194
+CUST0139;Omar Marinov;Individual;Cyprus;18.11.2019;Real Estate Agent;Low;Yes;omar44@abv.bg;089 013 1064
+CUST0140;Viktor Muller;Individual;Austria;4.11.2023;Freelancer;Low;No;viktor92@mail.com;088 449 8458
+CUST0141;John Marinov;Individual;Sweden;27.12.2023;Business Owner;Low;No;john72abv.bg;088 247 1106
+CUST0142;Ahmed Al-Rashid;Individual;Germany;10.4.2025;Business Owner;Medium;No;ahmed18@yahoo.com;089 525 3023
+CUST0143;Yordan Wang;Individual;Germany;19.1.2023;Restaurant Owner;Low;No;yordan14@gmail.com;089 244 8354
+CUST0144;Fatima Kowalski;Individual;Cyprus;11.7.2020;Import/Export Trader;Medium;No;fatima41@yahoo.com;089 570 3853
+CUST0145;Ahmed Al-Rashid;Individual;China;4.11.2020;Business Owner;High;No;ahmed4@abv.bg;088 655 9753
+CUST0146;Dimitar Wang;Individual;Sweden;18.9.2021;Real Estate Agent;Low;No;dimitar62@abv.bg;089 367 0053
+CUST0147;Li Silva;Individual;Turkey;13.10.2021;Software Engineer;Low;No;li97@yahoo.com;089 321 1090
+CUST0148;Ani Angelov;Individual;Serbia;7.5.2025;Import/Export Trader;Low;No;ani89@gmail.com;088 060 6222
+CUST0149;Diana Wang;Business;France;27.11.2022;Import/Export Trader;Low;No;diana57@abv.bg;088 914 6853
+CUST0150;Maria Marinov;Individual;France;26.9.2021;Real Estate Agent;Low;No;maria52@gmail.com;089 351 4798
+CUST0151;Milena Kowalski;Individual;Netherlands;22.4.2021;Restaurant Owner;Low;No;milena24@yahoo.com;089 421 9490
+CUST0152;Elena Rossi;Business;Austria;27.5.2023;Restaurant Owner;Low;No;elena79@mail.com;089 022 3586
+CUST0153;Rumen Dimitrov;Individual;Spain;5.11.2023;Business Owner;Low;No;rumen89@gmail.com;089 540 2865
+CUST0154;Boris Marinov;Business;Canada;9.2.2019;Retired;Low;No;boris53@abv.bg;089 461 2438
+CUST0155;Nikolay Gonzalez;Individual;China;14.5.2019;Import/Export Trader;Medium;No;nikolay71@mail.com;088 891 2764
+CUST0156;Omar Georgiev;Individual;Netherlands;10.8.2023;Teacher;Low;No;omar58@yahoo.com;088 256 0398
+CUST0157;Vasil Todorov;Business;Canada;20.10.2023;Consultant;Low;No;vasil45@yahoo.com;088 543 9375
+CUST0158;Diana Gonzalez;Individual;Cyprus;26.1.2020;Software Engineer;Medium;No;diana90@gmail.com;089 096 8726
+CUST0159;Sarah Muller;Individual;Austria;17.3.2023;Accountant;Low;No;sarah89@yahoo.com;089 544 3187
+CUST0160;Nikolay Kowalski;Individual;Germany;29.12.2024;Import/Export Trader;Low;No;nikolay44@gmail.com;089 592 6596
+CUST0161;Elena Georgiev;Individual;India;8.3.2019;Software Engineer;Medium;No;elena26@gmail.com;088 926 6699
+CUST0162;Nikolay Zhelyazkov;Individual;France;8.1.2019;Consultant;Low;No;nikolay91@mail.com;089 518 1724
+CUST0163;Radost Rossi;Individual;Canada;5.8.2020;Accountant;Medium;No;radost94@mail.com;089 141 3791
+CUST0164;John Nikolov;Individual;Germany;12.12.2024;Doctor;Low;No;john53@abv.bg;088 220 5345
+CUST0165;Petar Gonzalez;Individual;Austria;7.12.2022;Consultant;Low;No;petar93@yahoo.com;088 098 9079
+CUST0166;Todor Rossi;Individual;Austria;25.4.2022;Consultant;Low;No;todor31@abv.bg;088 265 3948
+CUST0167;Li Marinov;Individual;Serbia;20.9.2023;Freelancer;Medium;No;li9@mail.com;088 116 3406
+CUST0168;Chen Kolev;Individual;Austria;10.1.2023;Restaurant Owner;Low;No;chen40@mail.com;088 694 7312
+CUST0169;Omar Marinov;Individual;Germany;24.6.2022;Software Engineer;Low;No;omar15@abv.bg;088 142 4314
+CUST0170;Petar Ivanov;Individual;France;26.7.2024;Construction Manager;Medium;No;petar17@yahoo.com;088 390 8903
+CUST0171;Fatima Wang;Individual;Ireland;12.11.2019;Unemployed;Low;Yes;fatima21@yahoo.com;089 880 6866
+CUST0172;Radost Rossi;Individual;Turkey;28.9.2021;Business Owner;Medium;No;radost71@abv.bg;088 753 6476
+CUST0173;Hristo Petrov;Individual;Bulgaria;4.1.2021;Real Estate Agent;Low;Yes;hristo37@yahoo.com;089 757 8933
+CUST0174;Li Todorov;Individual;Cyprus;20.9.2021;Freelancer;Medium;No;li98@gmail.com;089 312 5071
+CUST0175;Omar Zhelyazkov;Individual;Bulgaria;4.10.2022;Construction Manager;Low;No;omar68@gmail.com;088 124 9289
+CUST0176;Nikolay Georgiev;Business;Serbia;19.8.2023;Accountant;Low;No;nikolay18abv.bg;089 816 5308
+CUST0177;Stefan Vasilev;Individual;India;29.8.2022;Consultant;Medium;No;stefan14@g@mail.com;089 458 8694
+CUST0178;Carlos Dimitrov;Individual;Afghanistan;26.1.2024;Business Owner;High;No;carlos91@mail.com;089 025 5528
+CUST0179;Vasil Zhelyazkov;Individual;Sweden;12.1.2021;Unemployed;Low;No;vasil32@mail.com;088 422 7352
+CUST0180;Elena Vasilev;Individual;China;11.12.2019;Software Engineer;Low;No;elena83@abv.bg;088 298 8432
